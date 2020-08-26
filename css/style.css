@@ -239,7 +239,7 @@
         justify-content: center;
         flex-wrap: wrap;
         height: 100%;
-        width: 97.5vw;
+        width: 100%;
     }
     .column-right{
         display: flex;
@@ -287,7 +287,7 @@
         justify-content: center;
         flex-wrap: wrap;
         height: 100%;
-        width: 95.2vw;
+        width: 100%;
     }
     .column-right{
         display: flex;
