@@ -292,7 +292,7 @@
     }
     .column-right{
         display: flex;
-        height: 53%;
+        height: 53vh;
         top: 580px;
         width: 40%;
     }
