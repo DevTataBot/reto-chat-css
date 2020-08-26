@@ -256,7 +256,7 @@
     }
     .chat{
         margin: 70px auto 0;
-        box-shadow: 1px 1px 70px rgb(0,0,0);    
+        box-shadow: 1px 1px 70px rgb(0,0,0,0.4);    
     }
     .information{
         display: flex;
@@ -287,11 +287,11 @@
         justify-content: center;
         flex-wrap: wrap;
         height: 100%;
-        width: 95vw;
+        width: 95.2vw;
     }
     .column-right{
         display: flex;
-        height: 55%;
+        height: 53%;
         top: 580px;
         width: 40%;
     }
@@ -304,7 +304,8 @@
         justify-content: center;
     }
     .chat{
-        margin: 70px auto 0;     
+        margin: 70px auto 0; 
+        box-shadow: 1px 1px 70px rbg(0,0,0,0,4)    
     }
     .information{
         display: flex;
